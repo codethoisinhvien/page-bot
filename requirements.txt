@@ -1,3 +1,7 @@
 Flask
 requests
+pymongo
+flask-socketio
+Flask-JWT
+pika
 gunicorn
